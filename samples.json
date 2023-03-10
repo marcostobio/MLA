@@ -1,0 +1,31 @@
+[
+    {
+        "id":"1",
+        "marc": "Bhaco",
+        "country":"Brasil",
+        "year":"1986",
+        "price":"8.5"
+    },
+    {
+        "id":"2",
+        "marc": "Mold",
+        "country":"Brasil",
+        "year":"2012",
+        "price":"9.1"
+    },
+    {
+        "id":"3",
+        "marc": "Pirelli",
+        "country":"Argentina",
+        "year":"1999",
+        "price":"8.2"
+    },
+    {
+        "id":"4",
+        "marc": "Garelli",
+        "country":"Uruguay",
+        "year":"2021",
+        "price":"10.5"
+    }
+    
+]
